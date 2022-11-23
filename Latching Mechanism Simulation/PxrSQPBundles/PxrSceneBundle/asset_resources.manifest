@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3232071908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f6b53197d08999a7606ed993dadeda7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0212ab6bc59ca1da69dbafc48869f883
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 473a1ecef0c9ca74c8eef2c746a6d1af, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/TobiiEulaFile.asset
+Dependencies: []
